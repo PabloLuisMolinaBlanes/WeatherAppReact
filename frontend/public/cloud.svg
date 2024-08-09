@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="cloud.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72693603"
+     inkscape:cx="396.87124"
+     inkscape:cy="451.20889"
+     inkscape:window-width="925"
+     inkscape:window-height="1016"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#676767;stop-opacity:0.61135553;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#676767;stop-opacity:0;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <rect
+       x="5.5842007"
+       y="595.2595"
+       width="780.58992"
+       height="105.22337"
+       id="rect1" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="radialGradient5"
+       cx="113.22221"
+       cy="74.358459"
+       fx="113.22221"
+       fy="74.358459"
+       r="60.617104"
+       gradientTransform="matrix(0.55302633,0,0,0.38559986,44.535241,54.56414)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0412px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0;stroke-dasharray:none"
+       x="64.599457"
+       y="147.34122"
+       id="text2"
+       transform="scale(0.98022831,1.0201705)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0;stroke-dasharray:none"
+         x="64.599457"
+         y="147.34122">Weather App</tspan></text>
+    <path
+       style="display:inline;fill:url(#radialGradient5);stroke-width:0.152043"
+       d="m 126.87867,106.6107 -47.356033,-0.2198 c 0,0 -10.786012,-19.387898 -3.17939,-19.111578 7.606624,0.27633 19.178457,5.53567 19.300247,2.40401 0.1218,-3.13166 5.639616,-9.552041 5.639616,-9.552041 0,0 -5.604736,-8.031306 -8.710915,-6.220306 -3.106181,1.811 31.886055,-22.160062 24.328605,-11.138547 -7.55744,11.021517 29.22742,14.622894 23.07469,21.916864 -6.15274,7.29398 -13.09682,21.921398 -13.09682,21.921398 z"
+       id="path3" />
+    <path
+       style="fill:#0026ce;fill-opacity:1;stroke-width:0.152043"
+       d="m 82.712757,117.7973 c 0,0 2.952338,-16.98602 4.229203,-12.07479 1.276863,4.91123 2.031345,13.1917 2.031345,13.1917 0,0 -5.476016,10.99869 -6.474725,4.85703"
+       id="path4" />
+    <path
+       style="fill:#0026ce;fill-opacity:1;stroke-width:0.152043"
+       d="m 122.61975,118.60876 c 0,0 2.95234,-16.98602 4.2292,-12.07479 1.27687,4.91123 2.03135,13.19171 2.03135,13.19171 0,0 -5.47602,10.99868 -6.47473,4.85702"
+       id="path4-4" />
+  </g>
+</svg>
